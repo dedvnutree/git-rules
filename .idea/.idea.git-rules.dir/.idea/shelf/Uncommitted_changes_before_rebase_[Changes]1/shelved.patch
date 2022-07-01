@@ -1,0 +1,16 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Коллекция полезных .gitignore от GitHub: https://github.com/github/gitignore\n\n\n\n# Исключение из игнорирования конкретного файла:\n!init.md\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	
++++ b/.gitignore	
+@@ -4,3 +4,4 @@
+ 
+ # Исключение из игнорирования конкретного файла:
+ !init.md
++*.xml
+\ No newline at end of file
